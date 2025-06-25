@@ -1,0 +1,42 @@
+{
+    "login": {
+        "account": {
+            "name": "Canela Fina",
+            "email": "canelafina@terra.com.br",
+            "cpf": "98736980005"
+        },
+        "plan": {
+            "name": "Plano Black",
+            "id": 2,
+            "price": 79.99
+        },
+        "credit_card": {
+            "number": "4242424242424242",
+            "holder": "Canela Fina",
+            "month": "12",
+            "year": "2031",
+            "cvv": "321"
+        }
+    },
+    "update": {
+        "account": {
+            "name": "Mister Whey",
+            "email": "misterwhey@bol.com.br",
+            "cpf": "01545113076",
+            "weight": 100,
+            "height": 190
+        },
+        "plan": {
+            "name": "Plano Black",
+            "id": 2,
+            "price": 79.99
+        },
+        "credit_card": {
+            "number": "4242424242424242",
+            "holder": "Mister Whey",
+            "month": "12",
+            "year": "2031",
+            "cvv": "321"
+        }
+    }
+}

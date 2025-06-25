@@ -1,0 +1,78 @@
+{
+    "create": {
+        "account": {
+            "name": "Johnny Maromba",
+            "email": "marombohnny@ig.com.br",
+            "cpf": "59091746815"
+        },
+        "plan": {
+            "name": "Plano Black",
+            "id": 2,
+            "price": 79.99
+        },
+        "credit_card": {
+            "number": "4242424242424242",
+            "holder": "Johnny Maromba",
+            "month": "12",
+            "year": "2031",
+            "cvv": "321"
+        }
+    },
+    "duplicate": {
+        "account": {
+            "name": "Billy Jackson",
+            "email": "billy_jackson@msn.com",
+            "cpf": "28439363818"
+        },
+        "plan": {
+            "name": "Plano Smart",
+            "id": 1,
+            "price": 99.99
+        },
+        "credit_card": {
+            "number": "4242424242424242",
+            "holder": "Billy Jackson",
+            "month": "12",
+            "year": "2031",
+            "cvv": "321"
+        }
+    },
+    "search": {
+        "account": {
+            "name": "Jinnie Bean",
+            "email": "jinnie_bean@msn.com",
+            "cpf": "23781277828"
+        },
+        "plan": {
+            "name": "Plano Smart",
+            "id": 1,
+            "price": 99.99
+        },
+        "credit_card": {
+            "number": "4242424242424242",
+            "holder": "Jinnie Bean",
+            "month": "12",
+            "year": "2031",
+            "cvv": "321"
+        }
+    },
+    "remove": {
+        "account": {
+            "name": "Ale Alejandro",
+            "email": "fernandro@yahoo.com",
+            "cpf": "87742111888"
+        },
+        "plan": {
+            "name": "Plano Black",
+            "id": 2,
+            "price": 79.99
+        },
+        "credit_card": {
+            "number": "4242424242424242",
+            "holder": "Ale Alejandro",
+            "month": "12",
+            "year": "2031",
+            "cvv": "321"
+        }
+    }
+}
